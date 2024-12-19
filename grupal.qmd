@@ -1,6 +1,10 @@
 ---
 title: "Entrega grupal"
+<<<<<<< Updated upstream
 author: "Pablo Gómez Úlehla (DNI: 03214857D), Javier Figueiredo Tor (DNI:06341629T), ..."
+=======
+author: "Pablo Gómez Úlehla (DNI: 03214857D), Javier Figueiredo Tor (DNI:06341629T) , Wenxiang Xia (DNI:X7276507C)..."
+>>>>>>> Stashed changes
 format:
   revealjs:
     theme: [style.scss]

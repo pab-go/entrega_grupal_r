@@ -1,6 +1,6 @@
 ---
 title: "Entrega grupal"
-author: "Pablo Gómez Úlehla (DNI: 03214857D), Pedro (DNI: 00000000-X), ..."
+author: "Pablo Gómez Úlehla (DNI: 03214857D), Javier Figueiredo Tor (DNI:06341629T), ...
 format:
   revealjs:
     theme: [style.scss]
